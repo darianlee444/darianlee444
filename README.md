@@ -1,5 +1,5 @@
-### Hi there 👋
+# Darian Lee's Profile
 
-### About Me
+# About Me
 
-My name is Darian Lee and I'm an aspiring data analyst with a bachelor's degree in experience in SQL, Excel, and Power BI. See some of my projects below!
+Hello! I'm Darian Lee, a passionate analytics professional with a bachelor's degree in Applied Math and Statistics from Stony Brook University. I love turning raw data into informative insights in order to solve problems.
