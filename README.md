@@ -14,4 +14,4 @@ Hello 👋! I'm [Darian Lee](https://www.linkedin.com/in/darianlee555), a passio
 ### Projects
 | Project Link | Project Description | Tools Used |
 |---|---|---|
-|🚗[NYC Motor Vehicle Collision Analysis](https://github.com/darianlee555/Portfolio-Projects/blob/main/README.md) | Cleansed and transformed data on NYC Motor Vehicle Collision reports using SQL. Visualised key insights using Power BI in the form of a dashboard, including the number of crashes by day and time, the top 5 reasons for a crash, the total number of fatalities and injuries for each borough, the ages most likely to get into a crash and more! |SQL, Power BI|
+|🚗[NYC Motor Vehicle Collision Analysis](https://github.com/darianlee555/Portfolio-Projects/blob/main/README.md) | Bruh |SQL, Power BI|
