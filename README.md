@@ -1,5 +1,6 @@
  # Darian Lee's Profile
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/darianlee555/darianlee555/assets/145151765/114d15cc-6214-4790-945e-3cba095d3bcc)
+![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/darianlee555/darianlee555/assets/145151765/8fdba66a-c1c7-4852-9fa9-89b1c0c086e9)
+
 ## About Me
 
 Hello 👋! I'm [Darian Lee](https://www.linkedin.com/in/darianlee555), a passionate analytics professional with a bachelor's degree in Applied Math and Statistics from Stony Brook University. I love turning raw data into informative insights in order to solve problems. See some of my skills and projects below!
