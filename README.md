@@ -8,7 +8,7 @@ Hello 👋! I'm [Darian Lee](https://www.linkedin.com/in/darianlee555), a passio
 ### Skills
 **SQL**: Proficient in writing complex queries for data extraction, transformation, and analysis.
 
-**Excel**: Experienced in utilizing advanced formulas, functions, power query/pivot, and data visualization.
+**Excel**: Experienced in utilizing advanced formulas, functions, pivot tables/charts, power query/pivot, and data visualization.
 
 **Power BI**: Skilled in creating interactive and insightful dashboards for data-driven decision-making.
 
