@@ -12,6 +12,8 @@ Hello 👋! I'm [Darian Lee](https://www.linkedin.com/in/darianlee555), a passio
 
 **Power BI**: Skilled in creating interactive and insightful dashboards for data-driven decision-making.
 
+**R**: Talented in creating visualizations and linear regression models.
+
 ### Projects
 | Project Link | Project Description | Tools Used |
 |---|---|---|
