@@ -1,5 +1,5 @@
  # Darian Lee's Profile
-![Black Minimal Motivation Quote LinkedIn Banner (1)]([https://github.com/darianlee444/darianlee444/assets/145151765/8fdba66a-c1c7-4852-9fa9-89b1c0c086e9](https://github.com/user-attachments/assets/3dd74baf-08d7-425e-9de0-d86885ec849c))
+![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/3dd74baf-08d7-425e-9de0-d86885ec849c))
 
 ## About Me
 
